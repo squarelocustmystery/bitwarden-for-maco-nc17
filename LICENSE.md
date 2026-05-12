@@ -1,4 +1,4 @@
-# 
+# professional Plugin for Bitwarden for macOS - two-factor-authentication and password-sharing offers the most advanced Bitwarden for macOS plugin, with two-factor-authentication
 
 
 
